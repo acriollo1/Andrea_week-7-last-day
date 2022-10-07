@@ -18,12 +18,12 @@ from loops import loop
 from ranges import ranges
 from enumerators import enum
 from zip import zip1
-from min_max import min_max
+from min_max import min_max1
 # decisions()
 # comparison()
 # loop()
-# random()
+random()
 #ranges()
 #enum()
-zip1()
-# min_max()
+#zip1()
+#min_max1()
